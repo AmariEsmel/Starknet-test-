@@ -53,4 +53,4 @@ What is the primary difference between deploying a DApp to a centralized hosting
 ## Question 11
 Deploy your DApp to any of the platforms mentioned in the test. Provide a link to the deployed application.
 
-- Answer : [Lien vers l'application déployée](https://exemple-de-dapp.vercel.app)
+- Answer :
